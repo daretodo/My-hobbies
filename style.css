@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background: linear-gradient(#00ffa6 100%,#00d9ff 0%);
+    font-family: sans-serif;
+    font-size: 25px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
